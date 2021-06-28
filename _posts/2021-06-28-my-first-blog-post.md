@@ -1,4 +1,4 @@
 ---
 title: Pokemon
-date: 28/6/2021
+date: 2021-06-28
 ---

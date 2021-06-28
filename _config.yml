@@ -1,11 +1,8 @@
-title: minima
+theme: minima
 author: Ansh Upadhyay
 email: an.upadhyay.sh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 I can't describe anything about this wonderful World
-
-# social links
 twitter_username: I don't have any twitter Account
 github_username:  54t6f
-
 show_excerpts: true # set to false to remove excerpts on the homepage
